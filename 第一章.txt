@@ -1,2 +1,3 @@
 print("hello ciallo!")
 print(cjcc)
+print(emocc)
